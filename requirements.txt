@@ -1,0 +1,1 @@
+pymcmcstat>=1.9.0
