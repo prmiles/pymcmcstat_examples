@@ -14,6 +14,13 @@ Otherwise, view the tutorials with Jupyter nbviewer:
 
 URL: https://nbviewer.jupyter.org/github/prmiles/pymcmcstat_examples/blob/master/index.ipynb
 
+Feedback
+========
+
+- `Feature Request <https://github.com/prmiles/pymcmcstat_examples/issues/new?template=feature_request.md>`_
+- `Bug Report <https://github.com/prmiles/pymcmcstat_examples/issues/new?template=bug_report.md>`_
+
+
 .. |binder| image:: https://mybinder.org/badge_logo.svg
     :target: https://mybinder.org/v2/gh/prmiles/pymcmcstat_examples/master
 
