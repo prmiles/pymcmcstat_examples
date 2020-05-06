@@ -1,0 +1,191 @@
+{
+    "R": [
+        [
+            0.49624068876945276,
+            -1.4738898179053785
+        ],
+        [
+            0.0,
+            0.8643781338523536
+        ]
+    ],
+    "RDR": [
+        [
+            [
+                0.49624068876945276,
+                -1.4738898179053785
+            ],
+            [
+                0.0,
+                0.8643781338523536
+            ]
+        ],
+        [
+            [
+                0.09924813775389056,
+                -0.2947779635810757
+            ],
+            [
+                0.0,
+                0.17287562677047075
+            ]
+        ]
+    ],
+    "allnames": [
+        "m",
+        "b"
+    ],
+    "alpha_count": 14853,
+    "cov": [
+        [
+            0.08550514624666006,
+            -0.2539597563915446
+        ],
+        [
+            -0.2539597563915446,
+            1.0137155394469541
+        ]
+    ],
+    "drscale": [
+        5.0,
+        4.0,
+        3.0
+    ],
+    "iacce": [
+        49,
+        145
+    ],
+    "limits": [
+        [
+            -10.0,
+            -10.0
+        ],
+        [
+            Infinity,
+            100.0
+        ]
+    ],
+    "local": [
+        0.0,
+        0.0
+    ],
+    "mean": [
+        1.9943898577044161,
+        2.9869677014032057
+    ],
+    "model_settings": {
+        "N": [
+            100.0
+        ],
+        "N0": [
+            0.0
+        ],
+        "Nshape": [
+            [
+                100,
+                1
+            ]
+        ],
+        "S20": [
+            1.0
+        ],
+        "description": "Model Settings",
+        "nbatch": 1,
+        "nsos": 1,
+        "prior_type": 1,
+        "sigma2": [
+            0.0076573831529169805
+        ]
+    },
+    "names": [
+        "m",
+        "b"
+    ],
+    "nsimu": 5000,
+    "original_covariance": [
+        [
+            0.010000000000000002,
+            0.0
+        ],
+        [
+            0.0,
+            0.0625
+        ]
+    ],
+    "parind": [
+        0,
+        1
+    ],
+    "prior": {
+        "mu": [
+            0.0,
+            0.0
+        ],
+        "priortype": 1,
+        "sigma": [
+            Infinity,
+            Infinity
+        ]
+    },
+    "qcov": [
+        [
+            0.2462548211903809,
+            -0.7314040984076483
+        ],
+        [
+            -0.7314040984076483,
+            2.919500753607227
+        ]
+    ],
+    "qcov_scale": 1.6970562748477138,
+    "qcovorig": [
+        [
+            0.2462548211903809,
+            -0.7314040984076483
+        ],
+        [
+            -0.7314040984076483,
+            2.919500753607227
+        ]
+    ],
+    "rejected_outside_bounds": 0.0,
+    "simulation_options": {
+        "adaptend": 0,
+        "adaptint": 100,
+        "adascale": null,
+        "alphatarget": 0.234,
+        "burnin_scale": 10,
+        "burnintime": 0,
+        "chainfile": "chainfile",
+        "covchainfile": "covchainfile",
+        "datestr": "20200505_213622",
+        "description": "simulation_options",
+        "etaparam": 0.7,
+        "json_restart_file": null,
+        "label": "MCMC run at 20200505_213622",
+        "lastadapt": 5000,
+        "method": "dram",
+        "nsimu": 5000,
+        "ntry": 2,
+        "printint": 100,
+        "priorupdatestart": 0,
+        "qcov": null,
+        "qcov_adjust": 1e-08,
+        "results_filename": null,
+        "s2chainfile": "s2chainfile",
+        "save_lightly": true,
+        "save_to_bin": false,
+        "save_to_json": true,
+        "save_to_txt": true,
+        "savedir": "resources/20200505_213622_demo_restart",
+        "savesize": 1000,
+        "sschainfile": "sschainfile",
+        "updatesigma": true
+    },
+    "simutime": 5.4530112743377686,
+    "theta": [
+        1.956781287458006,
+        3.139202133056124
+    ],
+    "total_rejected": 0.9612
+}
